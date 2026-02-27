@@ -1,8 +1,13 @@
-CI/CD API Testing Project
+# CI/CD INTEGRATION
 
-This project runs automated Postman API tests using GitHub Actions CI/CD pipeline.
+COMPANY: CODTECH IT SOLUTIONS  
 
-Steps:
-1. Push code to GitHub.
-2. Pipeline runs Newman tests automatically.
-3. HTML report generated.
+NAME: LEONA MENDES  
+
+INTERN ID: CTIS4010  
+
+DOMAIN NAME: AUTOMATION  TESTING  
+
+DURATION: 4 WEEKS  
+
+MENTOR: NEELA SANTOSH  
